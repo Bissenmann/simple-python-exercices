@@ -1,0 +1,19 @@
+{
+  "name": "simple-python-exercices",
+  "version": "1.0.0",
+  "description": "Some exercises for python class (January 2016)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bissenmann/simple-python-exercices.git"
+  },
+  "author": "Ben Issenmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bissenmann/simple-python-exercices/issues"
+  },
+  "homepage": "https://github.com/Bissenmann/simple-python-exercices#readme"
+}
